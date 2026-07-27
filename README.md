@@ -24,3 +24,5 @@ To run this project locally, you will need:
    ```bash
    git clone [https://github.com/SakshamKataria2/comic-strip-generator.git](https://github.com/SakshamKataria2/comic-strip-generator.git)
    cd comic-strip-generator
+   install -r requirements.txt
+   streamlit run app.py
