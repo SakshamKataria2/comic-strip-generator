@@ -1,3 +1,4 @@
 streamlit>=1.30.0
 google-genai>=0.1.0
 python-dotenv
+pillow==10.3.0
